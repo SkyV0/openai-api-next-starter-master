@@ -25,10 +25,3 @@ function reviewPrompt(productName) {
   Topic: ${productName}
   Two-Sentence Horror Story:`;
 }
-
-
-
-
-
-
-

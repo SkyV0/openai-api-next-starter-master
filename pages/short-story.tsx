@@ -1,6 +1,5 @@
 import Head from "next/head";
 import { useState, useRef, useEffect } from "react";
-import hljs from "highlight.js";
 import React from "react";
 
 export default function Review() {
@@ -136,5 +135,3 @@ export default function Review() {
     </div>
   );
 }
-
-
